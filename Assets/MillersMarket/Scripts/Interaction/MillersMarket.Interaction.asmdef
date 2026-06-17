@@ -1,0 +1,17 @@
+{
+    "name": "MillersMarket.Interaction",
+    "rootNamespace": "MillersMarket.Interaction",
+    "references": [
+        "MillersMarket.Core",
+        "MillersMarket.Player"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
